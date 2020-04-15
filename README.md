@@ -5,3 +5,5 @@ Hi again, I'm new to GitHub.  I never imagined I would be working with this tool
 cheers.
 
 Added another line!
+
+just performed a git clone on this repository!
